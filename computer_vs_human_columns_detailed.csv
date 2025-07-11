@@ -1892,36 +1892,6 @@ nf_38.csv,specimenPreparationMethod,Likely Human,No computer-generated patterns 
 nf_38.csv,timePointUnit,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
 nf_38.csv,tissue,Likely Human,No computer-generated patterns detected,CDX tissue | CDX tissue | CDX tissue,Likely human-annotated,Human-readable format
 nf_38.csv,transplantationRecipientSpecies,Likely Human,No computer-generated patterns detected,Mus musculus | Mus musculus | Mus musculus,Likely human-annotated,Human-readable format
-nf_39.csv,id,Computer Generated,Ends with ID,syn60247805 | syn60247807 | syn60247808,Ends with ID,Synapse ID format
-nf_39.csv,name,Computer Generated,Consistent alphanumeric format,collection_0000064652_2021-01-11_11_49_23.csv | collection_0000064656_2021-01-09_01_04_16.csv | collection_0000064648_2021-01-08_22_50_58.csv,Likely human-annotated,Consistent alphanumeric format
-nf_39.csv,currentVersion,Computer Generated,Created/Modified on field,1 | 1 | 1,Created/Modified on field,Human-readable format
-nf_39.csv,dataFileHandleId,Computer Generated,Ends with ID,142028049 | 142028054 | 142028053,Ends with ID,File handle ID
-nf_39.csv,dataFileName,Computer Generated,Filename field,collection_0000064652_2021-01-11_11_49_23.csv | collection_0000064656_2021-01-09_01_04_16.csv | collection_0000064648_2021-01-08_22_50_58.csv,Filename field,Consistent alphanumeric format
-nf_39.csv,dataFileSizeBytes,Computer Generated,File size field,22286 | 27074 | 24248,File size field,Human-readable format
-nf_39.csv,dataFileMD5Hex,Computer Generated,Contains MD5,3ccb295c73ea50bfd9138249e875a0b1 | 2bbc66a000e2e1be70cf410e5eaea9b5 | 9b1dcc2d9b07b08221f5536bf72e4e56,Contains MD5,Hash-like hex string
-nf_39.csv,BiospecimenKey,Computer Generated,Ends with Key,CA263001-B279 | CA263001-B287 | CA263001-B255,Ends with Key,Consistent alphanumeric format
-nf_39.csv,DatasetViewKey,Computer Generated,Ends with Key,syn63100173 | syn63100173 | syn63100173,Ends with Key,Synapse ID format
-nf_39.csv,EntityId,Computer Generated,Ends with ID,syn60247805 | syn60247807 | syn60247808,Ends with ID,Synapse ID format
-nf_39.csv,FileAlias,Computer Generated,System alias,syn60247805 | syn60247807 | syn60247808,System alias,Synapse ID format
-nf_39.csv,FileDescription,Computer Generated,Created/Modified on field,"Pathological partial annotations for image with the same basename, used to train MetFinder | Pathological partial annotations for image with the same basename, used to train MetFinder | Pathological partial annotations for image with the same basename, used to train MetFinder",Created/Modified on field,Human-readable format
-nf_39.csv,FileFormat,Computer Generated,File format field,CSV | CSV | CSV,File format field,Human-readable format
-nf_39.csv,FileTumorType,Computer Generated,Type field (often system-generated),Melanoma | Melanoma | Melanoma,Type field (often system-generated),Human-readable format
-nf_39.csv,FileUrl,Computer Generated,URL field,https://www.synapse.org/Synapse:syn60247805 | https://www.synapse.org/Synapse:syn60247807 | https://www.synapse.org/Synapse:syn60247808,URL field,URL format
-nf_39.csv,FileViewId,Computer Generated,Ends with ID,syn60247805 | syn60247807 | syn60247808,Ends with ID,Synapse ID format
-nf_39.csv,StudyKey,Computer Generated,Ends with Key,CA263001-pcmr-2024 | CA263001-pcmr-2024 | CA263001-pcmr-2024,Ends with Key,Consistent alphanumeric format
-nf_39.csv,FileLongitudinalEventType,Computer Generated,Type field (often system-generated),,Type field (often system-generated),No data available
-nf_39.csv,DataUseCodes,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileAssay,Likely Human,No computer-generated patterns detected,Hematoxylin and Eosin Staining Method | Hematoxylin and Eosin Staining Method | Hematoxylin and Eosin Staining Method,Likely human-annotated,Human-readable format
-nf_39.csv,FileDesign,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileLevel,Likely Human,No computer-generated patterns detected,Level 3 | Level 3 | Level 3,Likely human-annotated,Human-readable format
-nf_39.csv,FileSpecies,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileTissue,Likely Human,No computer-generated patterns detected,Liver | Liver | Liver,Likely human-annotated,Human-readable format
-nf_39.csv,FileDataUseCodes,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileLongitudinalGroup,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileLongitudinalSequenceIdentifier,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileLongitudinalSequentialTimeElapsed,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileLongitudinalTimeElapsedUnit,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_39.csv,FileLongitudinalTotalTimeElapsed,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
 nf_4.csv,id,Computer Generated,Ends with ID,syn11923896 | syn11923897 | syn11923898,Ends with ID,Synapse ID format
 nf_4.csv,name,Computer Generated,Consistent alphanumeric format,201194000076_R07C01_Grn.idat | 201194000076_R07C01_Red.idat | 201194000076_R08C01_Grn.idat,Likely human-annotated,Consistent alphanumeric format
 nf_4.csv,aliquotID,Computer Generated,Ends with ID,,Ends with ID,No data available
@@ -1966,36 +1936,6 @@ nf_4.csv,species,Likely Human,No computer-generated patterns detected,Homo sapie
 nf_4.csv,specimenPreparationMethod,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
 nf_4.csv,timePointUnit,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
 nf_4.csv,tissue,Likely Human,No computer-generated patterns detected,primary tumor | primary tumor | primary tumor,Likely human-annotated,Human-readable format
-nf_40.csv,id,Computer Generated,Ends with ID,syn60245342 | syn60245360 | syn60245361,Ends with ID,Synapse ID format
-nf_40.csv,name,Computer Generated,Consistent alphanumeric format,collection_0000064644_2021-01-08 22_07_48.scn | collection_0000064565_2021-01-08_15_00_13.csv | collection_0000064557_2021-01-06_18_08_41.csv,Likely human-annotated,Consistent alphanumeric format
-nf_40.csv,currentVersion,Computer Generated,Created/Modified on field,1 | 1 | 1,Created/Modified on field,Human-readable format
-nf_40.csv,dataFileHandleId,Computer Generated,Ends with ID,142024897 | 142025006 | 142025010,Ends with ID,File handle ID
-nf_40.csv,dataFileName,Computer Generated,Filename field,collection_0000064644_2021-01-08 22_07_48.scn | collection_0000064565_2021-01-08_15_00_13.csv | collection_0000064557_2021-01-06_18_08_41.csv,Filename field,Consistent alphanumeric format
-nf_40.csv,dataFileSizeBytes,Computer Generated,File size field,977005654 | 4589 | 14980,File size field,Human-readable format
-nf_40.csv,dataFileMD5Hex,Computer Generated,Contains MD5,ee4b6a2aa42b901f797e35df581e1c59 | 3a416fdc3b310e203169a6b4d2a31e0f | 726aff8d7ddecdc9ecd7f5c01a02da68,Contains MD5,Hash-like hex string
-nf_40.csv,BiospecimenKey,Computer Generated,Ends with Key,CA263001-B338 | CA263001-B321 | CA263001-B277,Ends with Key,Consistent alphanumeric format
-nf_40.csv,DatasetViewKey,Computer Generated,Ends with Key,syn63100169 | syn63100169 | syn63100169,Ends with Key,Synapse ID format
-nf_40.csv,EntityId,Computer Generated,Ends with ID,syn60245342 | syn60245360 | syn60245361,Ends with ID,Synapse ID format
-nf_40.csv,FileAlias,Computer Generated,System alias,syn60245342 | syn60245360 | syn60245361,System alias,Synapse ID format
-nf_40.csv,FileDescription,Computer Generated,Created/Modified on field,"Whole slide scan at 40x magnification of a brain tissue section from a male mouse, genotype Nod/Scid/Il2gR null, with a 12273BM human cell line xenograft | Pathological partial annotations for image with the same basename, used to train MetFinder | Pathological partial annotations for image with the same basename, used to train MetFinder",Created/Modified on field,Human-readable format
-nf_40.csv,FileFormat,Computer Generated,File format field,SCN | CSV | CSV,File format field,Human-readable format
-nf_40.csv,FileTumorType,Computer Generated,Type field (often system-generated),Melanoma | Melanoma | Melanoma,Type field (often system-generated),Human-readable format
-nf_40.csv,FileUrl,Computer Generated,URL field,https://www.synapse.org/Synapse:syn60245342 | https://www.synapse.org/Synapse:syn60245360 | https://www.synapse.org/Synapse:syn60245361,URL field,URL format
-nf_40.csv,FileViewId,Computer Generated,Ends with ID,syn60245342 | syn60245360 | syn60245361,Ends with ID,Synapse ID format
-nf_40.csv,StudyKey,Computer Generated,Ends with Key,CA263001-pcmr-2024 | CA263001-pcmr-2024 | CA263001-pcmr-2024,Ends with Key,Consistent alphanumeric format
-nf_40.csv,FileLongitudinalEventType,Computer Generated,Type field (often system-generated),,Type field (often system-generated),No data available
-nf_40.csv,DataUseCodes,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileAssay,Likely Human,No computer-generated patterns detected,Hematoxylin and Eosin Staining Method | Hematoxylin and Eosin Staining Method | Hematoxylin and Eosin Staining Method,Likely human-annotated,Human-readable format
-nf_40.csv,FileDesign,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileLevel,Likely Human,No computer-generated patterns detected,Level 2 | Level 3 | Level 3,Likely human-annotated,Human-readable format
-nf_40.csv,FileSpecies,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileTissue,Likely Human,No computer-generated patterns detected,Brain | Brain | Brain,Likely human-annotated,Human-readable format
-nf_40.csv,FileDataUseCodes,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileLongitudinalGroup,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileLongitudinalSequenceIdentifier,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileLongitudinalSequentialTimeElapsed,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileLongitudinalTimeElapsedUnit,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
-nf_40.csv,FileLongitudinalTotalTimeElapsed,Likely Human,No computer-generated patterns detected,,Likely human-annotated,No data available
 nf_5.csv,id,Computer Generated,Ends with ID,syn30114199 | syn30121585 | syn30380826,Ends with ID,Synapse ID format
 nf_5.csv,dataSubtype,Computer Generated,Type field (often system-generated),raw | raw | raw,Type field (often system-generated),Human-readable format
 nf_5.csv,dataType,Computer Generated,Type field (often system-generated),genomicVariants | genomicVariants | genomicVariants,Type field (often system-generated),Human-readable format

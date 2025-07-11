@@ -1,5 +1,5 @@
 Column,Classification,Frequency,Example_Files,Schema_Status,Schema_Match
-id,Computer Generated,40,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Id
+id,Computer Generated,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Id
 dataSubtype,Computer Generated,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),DataSubtype
 dataType,Computer Generated,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),DataType
 fileFormat,Computer Generated,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),FileFormat
@@ -13,7 +13,6 @@ nf2Genotype,Computer Generated,36,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case I
 cellType,Computer Generated,32,"nf_10.csv, nf_11.csv, nf_12.csv",Found (Case Insensitive),CellType
 runType,Computer Generated,26,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),RunType
 parentId,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),ParentId
-currentVersion,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),CurrentVersion
 createdOn,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),CreatedOn
 createdBy,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),CreatedBy
 etag,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),Etag
@@ -21,31 +20,32 @@ modifiedOn,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN 
 type,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),Type
 benefactorId,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),BenefactorId
 projectId,Computer Generated,26,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
-dataFileHandleId,Computer Generated,25,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),DataFileHandleId
+currentVersion,Computer Generated,24,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),CurrentVersion
 modifiedBy,Computer Generated,23,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),ModifiedBy
+dataFileHandleId,Computer Generated,23,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),DataFileHandleId
 diagnosis,Computer Generated,22,"nf_10.csv, nf_11.csv, nf_17.csv",Found (Case Insensitive),Diagnosis
 readLength,Computer Generated,22,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),ReadLength
 entityId,Computer Generated,21,"nf_1.csv, nf_12.csv, nf_21.csv",NOT FOUND IN SCHEMA,
-dataFileSizeBytes,Computer Generated,21,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 studyName,Computer Generated,21,"nf_2.csv, nf_21.csv, nf_22.csv",Found (Case Insensitive),StudyName
 platform,Computer Generated,20,"nf_12.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),Platform
 readPairOrientation,Computer Generated,20,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),ReadPairOrientation
 experimentalCondition,Computer Generated,20,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),ExperimentalCondition
-dataFileMD5Hex,Computer Generated,19,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
+dataFileSizeBytes,Computer Generated,19,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
+dataFileMD5Hex,Computer Generated,17,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 transplantationType,Computer Generated,17,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),TransplantationType
 parentSpecimenID,Computer Generated,15,"nf_1.csv, nf_2.csv, nf_3.csv",Found (Case Insensitive),ParentSpecimenID
-name,Computer Generated,15,"nf_12.csv, nf_15.csv, nf_16.csv",NOT FOUND IN SCHEMA,
 accessType,Computer Generated,15,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),AccessType
 eTag,Computer Generated,15,"nf_21.csv, nf_22.csv, nf_23.csv",Found (Case Insensitive),Etag
 genePerturbationType,Computer Generated,14,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),GenePerturbationType
 Component,Computer Generated,14,"nf_21.csv, nf_22.csv, nf_23.csv",Found (Exact),Component
+name,Computer Generated,13,"nf_12.csv, nf_15.csv, nf_16.csv",NOT FOUND IN SCHEMA,
 path,Computer Generated,13,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 aliquotID,Computer Generated,12,"nf_2.csv, nf_3.csv, nf_33.csv",Found (Case Insensitive),AliquotID
 drugScreenType,Computer Generated,11,"nf_10.csv, nf_11.csv, nf_17.csv",Found (Case Insensitive),DrugScreenType
 description,Computer Generated,11,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),Description
-dataFileName,Computer Generated,11,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 dataFileBucket,Computer Generated,11,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 Uuid,Computer Generated,11,"nf_28.csv, nf_29.csv, nf_30.csv",NOT FOUND IN SCHEMA,
+dataFileName,Computer Generated,9,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 dataFileConcreteType,Computer Generated,9,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 dataFileKey,Computer Generated,9,"nf_13.csv, nf_14.csv, nf_15.csv",NOT FOUND IN SCHEMA,
 comments,Computer Generated,7,"nf_21.csv, nf_33.csv, nf_34.csv",Found (Case Insensitive),Comments
@@ -62,17 +62,6 @@ Filename,Computer Generated,2,"nf_24.csv, nf_25.csv",Found (Exact),Filename
 experimentId,Computer Generated,2,"nf_24.csv, nf_25.csv",Found (Case Insensitive),ExperimentId
 data_type,Computer Generated,2,"nf_26.csv, nf_27.csv",NOT FOUND IN SCHEMA,
 structureType,Computer Generated,2,"nf_31.csv, nf_32.csv",NOT FOUND IN SCHEMA,
-BiospecimenKey,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-DatasetViewKey,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-EntityId,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileAlias,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileDescription,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileFormat,Computer Generated,2,"nf_39.csv, nf_40.csv",Found (Exact),FileFormat
-FileTumorType,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileUrl,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileViewId,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-StudyKey,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileLongitudinalEventType,Computer Generated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
 libraryPreparationMethod,Computer Generated,1,nf_14.csv,Found (Case Insensitive),LibraryPreparationMethod
 modelSystemName,Computer Generated,1,nf_32.csv,Found (Case Insensitive),ModelSystemName
 targetCaptureKitID,Computer Generated,1,nf_6.csv,Found (Case Insensitive),TargetCaptureKitID
@@ -151,17 +140,5 @@ multipleTestingAdjustmentMethod,Human Annotated,2,"nf_31.csv, nf_32.csv",NOT FOU
 alignmentMethod,Human Annotated,2,"nf_31.csv, nf_32.csv",NOT FOUND IN SCHEMA,
 transcriptQuantificationMethod,Human Annotated,2,"nf_31.csv, nf_32.csv",NOT FOUND IN SCHEMA,
 chemicalStructure,Human Annotated,2,"nf_31.csv, nf_32.csv",NOT FOUND IN SCHEMA,
-DataUseCodes,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileAssay,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileDesign,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileLevel,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileSpecies,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileTissue,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileDataUseCodes,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileLongitudinalGroup,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileLongitudinalSequenceIdentifier,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileLongitudinalSequentialTimeElapsed,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileLongitudinalTimeElapsedUnit,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
-FileLongitudinalTotalTimeElapsed,Human Annotated,2,"nf_39.csv, nf_40.csv",NOT FOUND IN SCHEMA,
 channel,Human Annotated,1,nf_4.csv,Found (Case Insensitive),Channel
 targetDepth,Human Annotated,1,nf_9.csv,Found (Case Insensitive),TargetDepth
