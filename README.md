@@ -8,7 +8,7 @@ This repository contains tools for analyzing CSV files from neurofibromatosis re
 
 ```
 pz-nf-testing-data/
-├── ground_truth/          # 40 CSV files with research data
+├── ground_truth/          # 38 CSV files with research data
 ├── unstructured_input/     # PDFs and compressed XML files
 ├── analysis scripts/       # Python scripts for data analysis
 └── output files/          # Generated analysis results
@@ -17,16 +17,16 @@ pz-nf-testing-data/
 ## Analysis Results Summary
 
 ### Dataset Statistics
-- **Total CSV files analyzed:** 40
-- **Total unique computer-generated columns:** 77
-- **Total unique human-annotated columns:** 89
+- **Total CSV files analyzed:** 38
+- **Total unique computer-generated columns:** 66
+- **Total unique human-annotated columns:** 77
 - **Analysis approach:** Pattern recognition + data content analysis
 
 ### Most Common Computer-Generated Columns
 
 | Column Name | Frequency | Description | Example Values |
 |-------------|-----------|-------------|----------------|
-| `id` | 40 files | Synapse identifiers | `syn30058767`, `syn33395848` |
+| `id` | 38 files | Synapse identifiers | `syn30058767`, `syn33395848` |
 | `dataSubtype` | 38 files | Data processing categories | `raw`, `processed`, `normalized` |
 | `dataType` | 38 files | Data type classifications | `genomicVariants`, `geneExpression` |
 | `fileFormat` | 38 files | File format specifications | `fastq`, `csv`, `bam`, `idat` |
@@ -133,6 +133,26 @@ Summary statistics including:
 - Frequency across files
 - Example files containing the column
 
+## Schema Validation Analysis
+
+In addition to column classification, this repository includes analysis comparing dataset columns to the NF.jsonld schema specification.
+
+### Schema Validation Results
+- **Total columns analyzed:** 135
+- **Found in schema (exact match):** 3 (2.2%)
+- **Found in schema (case insensitive):** 91 (67.4%)
+- **NOT FOUND in schema:** 41 (30.4%)
+
+### Key Findings
+- **Strong schema coverage** for core biological and experimental metadata
+- **Missing schema definitions** for file management and system metadata fields
+- **Good case-insensitive matching** indicates consistent naming conventions with minor capitalization differences
+
+### Generated Files
+- `column_classification_summary_with_schema_flags.csv`: Column summary with schema validation flags
+- `SCHEMA_VALIDATION_REPORT.md`: Detailed schema coverage analysis and recommendations
+- `schema_column_comparison.py`: Schema validation analysis script
+
 ## Applications
 
 This analysis is valuable for:
@@ -151,7 +171,7 @@ This analysis is valuable for:
 - No external dependencies required
 
 ### Performance
-- Analyzes 40 CSV files in under 30 seconds
+- Analyzes 38 CSV files in under 30 seconds
 - Memory efficient processing
 - Handles large files through sampling
 
@@ -173,5 +193,5 @@ The classification helps researchers focus on scientifically relevant annotation
 
 ---
 
-*Generated on July 7, 2025*  
-*Analysis covers 40 CSV files from neurofibromatosis research datasets*
+*Generated on July 11, 2025*  
+*Analysis covers 38 CSV files from neurofibromatosis research datasets*
