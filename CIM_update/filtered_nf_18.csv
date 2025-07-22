@@ -1,0 +1,51 @@
+dataSubtype,dataType,fileFormat,individualID,specimenID,nf1Genotype,diagnosis,platform,assay,species,sex,organ,tissue
+processed,genomicVariants,txt,,,"+/-,-/-",Neurofibromatosis type 1,,SNP array,Homo sapiens,,,
+processed,genomicVariants,csv,patient1,patient1tumor3,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient2,patient2tumor1,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient2,patient2tumor8,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient3,patient3tumor1,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient3,patient3tumor2,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient3,patient3tumor3,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient3,patient3tumor4,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient5,patient5tumor5,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient6,patient6tumor4,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient6,patient6tumor5,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient6,patient6tumor6,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient6,patient6tumor7,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient8,patient8tumor4,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient8,patient8tumor5,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient8,patient8tumor6,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient9,patient9tumor1,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient9,patient9tumor3,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient9,patient9tumor6,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient10,patient10tumor1,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient10,patient10tumor2,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient10,patient10tumor3,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient10,patient10tumor4,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient11,patient11tumor1,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient1,patient1tumor9,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient2,patient2tumor4,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient1,patient1pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,blood,blood
+processed,genomicVariants,csv,patient2,patient2tumor6,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient2,patient2pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,blood,blood
+processed,genomicVariants,csv,patient5,patient5tumor11,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient11,patient11tumor2,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient3,patient3pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,blood,blood
+processed,genomicVariants,csv,patient5,patient5tumor12,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient4,patient4pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,blood,blood
+processed,genomicVariants,csv,patient5,patient5tumor13,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient5,patient5pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,blood,blood
+processed,genomicVariants,csv,patient8,patient8tumor7,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient6,patient6pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,blood,blood
+processed,genomicVariants,csv,patient9,patient9tumor7,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,csv,patient9,patient9pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,blood,blood
+processed,genomicVariants,csv,patient10,patient10pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Male,blood,blood
+processed,genomicVariants,csv,patient11,patient11pbmc,+/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,blood,blood
+processed,genomicVariants,csv,patient11,patient11tumor7,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient13,patient13tumor1,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient13,patient13tumor2,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient13,patient13tumor3,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient1,patient1tumor6,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient13,patient13tumor7,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,csv,patient11,patient11tumor8,-/-,Neurofibromatosis type 1,Illumina Omni2pt5M,SNP array,Homo sapiens,Female,skin,primary tumor
+metadata,genomicVariants,csv,,,,Neurofibromatosis type 1,,SNP array,Homo sapiens,,,

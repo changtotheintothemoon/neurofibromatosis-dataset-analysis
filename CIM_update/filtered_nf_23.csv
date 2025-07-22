@@ -1,0 +1,9 @@
+dataSubtype,dataType,fileFormat,resourceType,studyName,assay,species
+normalized,geneExpression,excel,experimentalData,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,cell viability assay,Homo sapiens
+normalized,drugScreen,excel,experimentalData,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,cell viability assay,Homo sapiens
+normalized,drugScreen,excel,experimentalData,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,cell viability assay,Homo sapiens
+normalized,drugCombinationScreen,pzfx,result,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,cell viability assay,Homo sapiens
+normalized,drugScreen,pzfx,result,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,cell viability assay,Homo sapiens
+normalized,geneExpression,pzfx,result,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,cell viability assay,Homo sapiens
+normalized,drugScreen,pzfx,result,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,cell viability assay,Homo sapiens
+,,,,Malignant Peripheral Nerve Sheath Tumors Achilles Heel: Combinatorial Targeting of ERBB3 and Calcium Signaling,,

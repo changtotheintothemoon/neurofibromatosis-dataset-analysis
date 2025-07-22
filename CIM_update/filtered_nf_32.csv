@@ -1,0 +1,5 @@
+dataSubtype,dataType,fileFormat,specimenID,nf2Genotype,cellType,diagnosis,modelSystemName,assay,species,isCellLine,isMultiIndividual,isMultiSpecimen,compoundName
+raw,volume,csv,,,,Neurofibromatosis type 2,CB17 SCID/Ben-Men-1-LucB,in vivo bioluminescence,Mus musculus,No,Yes,Yes,"GSK2126458,Panobinostat,CUDC907"
+raw,volume,excel,,,,Neurofibromatosis type 2,CB17 SCID/Ben-Men-1-LucB,in vivo bioluminescence,Mus musculus,No,Yes,Yes,"GSK2126458,Panobinostat,CUDC907"
+processed,volume,excel,1_V1,-/-,Syn6,Neurofibromatosis type 2,CB17 SCID/Ben-Men-1-LucB,in vivo bioluminescence,Homo sapiens,No,Yes,Yes,"DMSO,MK-2206,Brigatinib,MK-2206+Brigatinib"
+processed,volume,excel,2_BM4,-/-,Syn6,Neurofibromatosis type 2,CB17 SCID/Ben-Men-1-LucB,in vivo bioluminescence,Homo sapiens,No,Yes,Yes,"DMSO,MK-2206,Brigatinib,MK-2206+Brigatinib"

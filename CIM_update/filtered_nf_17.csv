@@ -1,0 +1,54 @@
+dataSubtype,dataType,fileFormat,individualID,specimenID,nf1Genotype,diagnosis,platform,assay,species,sex,organ,tissue
+processed,genomicVariants,bam,patient6,patient6tumor4,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient5,patient5tumor5,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient8,patient8tumor4,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient8,patient8tumor6,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient9,patient9tumor3,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient9,patient9tumor6,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient10,patient10tumor4,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient10,patient10tumor3,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient11,patient11tumor1,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient11,patient11tumor2,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient13,patient13tumor1,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient13,patient13tumor2,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient13,patient13tumor3,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient1,patient1tumor9,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient1,patient1tumor6,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient2,patient2tumor4,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient2,patient2tumor6,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient5,patient5tumor11,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient5,patient5tumor12,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient5,patient5tumor13,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient6,patient6tumor5,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient8,patient8tumor7,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient9,patient9tumor1,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient8,patient8tumor5,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient9,patient9tumor7,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+processed,genomicVariants,bam,patient11,patient11tumor8,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient13,patient13tumor7,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient1,patient1pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,blood,blood
+processed,genomicVariants,bam,patient2,patient2pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,blood,blood
+processed,genomicVariants,bam,patient5,patient5pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,blood,blood
+processed,genomicVariants,bam,patient4,patient4pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,blood,blood
+processed,genomicVariants,bam,patient9,patient9pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,blood,blood
+processed,genomicVariants,bam,patient11,patient11pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,blood,blood
+processed,genomicVariants,bam,patient10,patient10pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,blood,blood
+processed,genomicVariants,bam,patient4,patient4tumor1,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient4,patient4tumor4,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient4,patient4tumor9,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient4,patient4tumor10,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient6,patient6tumor6,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient6,patient6tumor7,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+processed,genomicVariants,bam,patient6,patient6pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,blood,blood
+processed,genomicVariants,bam,patient8,patient8pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,blood,blood
+raw,genomicVariants,vcf,patient1tumor3,,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+raw,genomicVariants,vcf,patient2tumor1,,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+raw,genomicVariants,bam,patient2tumor8,,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+raw,genomicVariants,bam,patient3tumor1,,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+raw,genomicVariants,bam,patient3,patient3tumor2,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+raw,genomicVariants,bam,patient3,,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,
+raw,genomicVariants,vcf,patient10,patient10tumor1,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+raw,genomicVariants,bam,patient10,patient10tumor2,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Male,skin,primary tumor
+raw,genomicVariants,vcf,patient11,patient11tumor7,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+raw,genomicVariants,bam,patient3,patient3tumor4,-/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,skin,primary tumor
+raw,genomicVariants,bam,patient3,patient3pbmc,+/-,Neurofibromatosis type 1,Illumina HiSeq X,whole genome sequencing,Homo sapiens,Female,blood,blood
