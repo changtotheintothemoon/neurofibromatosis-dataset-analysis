@@ -1,5 +1,6 @@
 Column,Classification,Frequency,Example_Files,Schema_Status,Schema_Match
 id,Synapse Platform Generated,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Id
+name,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Name
 dataSubtype,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),DataSubtype
 dataType,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),DataType
 fileFormat,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),FileFormat
